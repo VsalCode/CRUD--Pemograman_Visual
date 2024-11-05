@@ -1,30 +1,35 @@
-| Nama  | Muhammad Din Al Ayubi   |
+| Nama  | Muhammad Faisal Ilham   |
 | ----- | ----------------------- |
-| NIM   | 312210293               |
+| NIM   | 312210322              |
 | Kelas | TI.22.A.3               |
 | Tugas | UTS Pemrograman Virtual |
 
 ### Pada praktikum ini, kita akan membuat Project baru dengan nama LatihanCRUD, dengan memakai Database pv_biodata dan jFrame seperti jFrame Biodata dengan beberapa perubahan desain :
 
-![img](img/1.png)
-![img](img/2.png)
+![Biodata](https://github.com/user-attachments/assets/e7c72d50-652a-46f1-8712-ce72bec553d9)
+<img width="946" alt="2" src="https://github.com/user-attachments/assets/dade39ea-e0bd-41fb-8563-69cb5c0509b2">
+
 
 ### Buatlah Project baru dengan nama LatihanCRUD.
 
-![img](img/3.png)
-![img](img/4.png)
+<img width="461" alt="3" src="https://github.com/user-attachments/assets/fd7c161f-6b55-48e2-863d-0eac4376b5bc">
+<img width="505" alt="4" src="https://github.com/user-attachments/assets/40e45216-d098-4f56-84ce-184ba213e77b">
+
 
 ### Klik kanan Libraries → Add JAR/Folder...
 
-![img](img/5.png)
+<img width="569" alt="5" src="https://github.com/user-attachments/assets/0a7d4a65-51cd-4285-8e9d-4aebad162837">
+
 
 ### Buatlah 2 buah Package dengan nama Config dan Form, klik kanan Source Packages → New → Java Package...
 
-![img](img/6.png)
+<img width="500" alt="6" src="https://github.com/user-attachments/assets/151f0f68-8ac2-49bd-bfec-3284b46d6ec0">
+
 
 ### Pada Package Config, bualah Java Class baru dengan nama `KoneksiDB`
 
-![img](img/7.png)
+<img width="569" alt="7" src="https://github.com/user-attachments/assets/f51c4f95-f6ba-4795-90fc-33465ac162b5">
+
 
 ### Skrip `KoneksiDB.java`
 
@@ -65,7 +70,8 @@ public class KoneksiDB {
 
 ### Test Koneksi dengan membuat jForm baru dan jangan lupa untuk cek koneksi pada tab Services
 
-![img](img/8.png)
+<img width="524" alt="8" src="https://github.com/user-attachments/assets/688dd73d-a195-4d3f-baba-70833665d919">
+
 
 ```java
 private void btnCekKoneksiActionPerformed(java.awt.event.ActionEvent evt) {
@@ -86,16 +92,19 @@ Connection conn = new KoneksiDB().getKoneksi();
 
 ### Pada Package Form, buatlah jFrame Form dengan nama `FormBiodata.`
 
-![img](img/9.png)
+<img width="778" alt="1" src="https://github.com/user-attachments/assets/aa620863-056f-415e-bbd9-b6c8904e4974">
+
 
 ### Set Properties :
 
-![img](img/10.png)
-![img](img/11.png)
+<img width="381" alt="10" src="https://github.com/user-attachments/assets/e6fe5a31-864e-4abd-912a-eaa6a773ecb5">
+<img width="377" alt="11" src="https://github.com/user-attachments/assets/9ebf4451-7d5d-4473-8f1f-245c0bb07486">
+
 
 ### Klik kanan Project → Properties → Run
 
-![img](img/12.png)
+<img width="509" alt="12" src="https://github.com/user-attachments/assets/480f4af3-8383-490b-8acb-0086a9764daf">
+
 
 ### Set import :
 
@@ -194,7 +203,8 @@ tfNama.requestFocus();
 
 ### Skrip Button Submit :
 
-![img](img/13.png)
+<img width="946" alt="13" src="https://github.com/user-attachments/assets/4d58b26b-c35a-4929-bfda-b8791b58f4f0">
+
 
 ```java
 private void btnSubmitActionPerformed(java.awt.event.ActionEvent evt) {
@@ -299,7 +309,8 @@ private void hapusData() {
 
 ### Klik kanan pada desain table → Events → Mouse → mouseClicked
 
-![img](img/14.png)
+<img width="346" alt="14" src="https://github.com/user-attachments/assets/b648ffca-727f-4bcb-ab42-6ee69721a113">
+
 
 ### Masukan skrip berikut :
 
@@ -323,8 +334,5 @@ private void tabel_biodataMouseClicked(java.awt.event.MouseEvent evt) {
 
 ### Jalankan aplikasinya
 
-![img](img/9.png)
+![img](img/9.png)<img width="778" alt="1" src="https://github.com/user-attachments/assets/9f5973fe-9f55-4f6d-8d91-1da2d1def193">
 
-# Laporan
-
-[<img src=https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Symbol.png width="120px">](https://drive.google.com/drive/folders/1H4FPUBTWG_xeFuBtJv2VMXSOjamq0CDc?usp=drive_link)
