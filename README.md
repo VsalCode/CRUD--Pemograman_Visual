@@ -334,5 +334,6 @@ private void tabel_biodataMouseClicked(java.awt.event.MouseEvent evt) {
 
 ### Jalankan aplikasinya
 
-![img](img/9.png)<img width="778" alt="1" src="https://github.com/user-attachments/assets/9f5973fe-9f55-4f6d-8d91-1da2d1def193">
+![Biodata](https://github.com/user-attachments/assets/6d86e470-ed21-4c5b-91bf-6898663401e6)
+
 
