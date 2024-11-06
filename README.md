@@ -92,8 +92,7 @@ Connection conn = new KoneksiDB().getKoneksi();
 
 ### Pada Package Form, buatlah jFrame Form dengan nama `FormBiodata.`
 
-<img width="778" alt="1" src="https://github.com/user-attachments/assets/aa620863-056f-415e-bbd9-b6c8904e4974">
-
+![Biodata](https://github.com/user-attachments/assets/6cb7c3a3-3cf5-4478-b23f-033a69a02c9e)
 
 ### Set Properties :
 
